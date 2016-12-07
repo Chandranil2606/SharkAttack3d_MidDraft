@@ -128,8 +128,8 @@ void draw()
   
 
 
- 
-bubbles();
+   //for(int x=1;x<=10;x++)
+     bubbles();
   
   scale(0.4);
   tree.show();
